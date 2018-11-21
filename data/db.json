@@ -1,0 +1,76 @@
+{
+    "exams": [
+        [
+            "Subject",
+            "Candidate",
+            "Grade",
+            "Date"
+        ],
+        [
+            {
+                "Candidate": 171523,
+                "Date": "12/01/05",
+                "Grade": 20,
+                "Subject": "BD"
+            },
+            {
+                "Candidate": 167459,
+                "Date": "15/09/05",
+                "Grade": 30,
+                "Subject": "ALG"
+            },
+            {
+                "Candidate": 171523,
+                "Date": "25/10/05",
+                "Grade": 30,
+                "Subject": "MP"
+            },
+            {
+                "Candidate": 167459,
+                "Date": "10/10/05",
+                "Grade": 20,
+                "Subject": "IS"
+            }
+        ]
+    ],
+    "students": [
+        [
+            "Name",
+            "StudCode",
+            "City",
+            "BirthYear"
+        ],
+        [
+            {
+                "BirthYear": 1982,
+                "City": "PI",
+                "Name": "Isaia",
+                "StudCode": 171523
+            },
+            {
+                "BirthYear": 1982,
+                "City": "PI",
+                "Name": "Isaia",
+                "StudCode": 171523
+            },
+            {
+                "BirthYear": 1980,
+                "City": "LU",
+                "Name": "Rossi",
+                "StudCode": 167459
+            },
+            {
+                "BirthYear": 1981,
+                "City": "LI",
+                "Name": "Bianchi",
+                "StudCode": 179856
+            },
+            {
+                "BirthYear": 1982,
+                "City": "PI",
+                "Name": "Bonini",
+                "StudCode": 175649
+            }
+        ]
+    ]
+}
